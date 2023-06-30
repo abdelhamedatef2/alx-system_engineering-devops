@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#  indefinitely write "I am alive" to file /tmp/my_process.
+#  then pause two seconds between each message.
+
+while true
+do
+  echo "I am alive!" >> /tmp/my_process
+  sleep 2
+done
