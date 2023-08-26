@@ -2,4 +2,4 @@
 
 # use SSH to connect to server wiht user UBUNTU throw RSA key
 
-ssh ubuntu -i ~/.ssh/school
+ssh -i ~/.ssh/school ubuntu@34.239.107.246
