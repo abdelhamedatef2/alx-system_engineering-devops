@@ -2,4 +2,4 @@
 
 # generate ssh -RSA
 
-ssh-kygen -t rsa -b 4096 -P betty -f school
+ssh-keygen -t rsa -b 4096 -P betty -f school
