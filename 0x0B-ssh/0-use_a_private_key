@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-#connects to serve through a private key
 
-ssh -i ~/.ssh/school ubuntu@<100.26.225.174
+# use SSH to connect to server wiht user UBUNTU throw RSA key
+
+ssh ubuntu -i ~/.ssh/school
