@@ -1,5 +1,5 @@
 #!/usr/bin/env bash 
- # Script install Nginx server and redirects /redirect_me 
+# Script install Nginx server and redirects /redirect_me 
  apt-get -y update 
  apt-get -y install nginx 
  echo "Hello World!" > /var/www/html/index.nginx-index.html 
