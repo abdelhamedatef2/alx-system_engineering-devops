@@ -1,8 +1,16 @@
-#!/usr/bin/env bash 
-# Script install Nginx server and redirects /redirect_me 
- apt-get -y update 
- apt-get -y install nginx 
- echo "Hello World!" > /var/www/html/index.nginx-index.html 
- sed -i "s/server_name _;/server_name _;\n\trewrite ^\/redirect_me https:\/\/github.com\/abdelhamedqtef2 permanent;/" /etc/nginx/sites-available/default 
- service nginx start 
- mv 
+#!/usr/bin/env bash
+# Script configure new Ubuntu machine to Perform 301-redirection
+
+# Upadate pkgs before Installation
+sudo apt-get update
+sudo apt-get install -y nginx
+
+# Creat index.html page
+echo "Hello World!" | sudo tee /var/www/html/index.html
+
+# Perform 301 Redirection
+string_for_replacement="server_name _;\n\trewrite ^\/redirect_me https:\/\/github.com\/abdelhamedatef2 permanent;"
+sudo sed -i "s/server_name _;/$string_for_replacement/" /etc/nginx/sites-enabled/default
+
+# Restart Nginx service
+sudo service nginx restart
