@@ -1,4 +1,5 @@
 # 0x0E. Web stack debugging #1
+![B4eeypV](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/b14c8229-be8a-4402-b3c8-12a2df53f8f9)
 
 ## Requirements
 * Allowed editors: `vi`, `vim`, `emacs`
