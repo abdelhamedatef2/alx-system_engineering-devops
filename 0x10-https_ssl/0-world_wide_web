@@ -1,5 +1,5 @@
 #!/bin/bash
-# script to
+# scrpt show info about subdomains
 get_record_info() {
   local domain=$1
   local subdomain=$2
