@@ -1,4 +1,9 @@
 # 0x10. HTTPS SSL
+![FlhGPEK](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/7db8386c-30f4-479f-9531-11faa7213971)
+
+## Background Context
+What happens when you don’t secure your website traffic?
+![xCmOCgw](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/d88b59a5-6093-4a84-aeb5-26c2d795d889)
 
 ## Learning Objectives
 * What is HTTPS SSL 2 main roles
