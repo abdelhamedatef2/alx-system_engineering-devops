@@ -5,8 +5,10 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
-
 ![aJPw3mw](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/63b48f46-ccc7-4eb9-a1a4-9941b703dede)
+
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d6e6934655861584d2d2d2f635f696d616767615f7363616c652c665f6175746f2c666c5f70726f67726573736976652c](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/0eacbe6e-6ef8-4812-9189-8ab19faf96a8)
+
 
 ## 0. What happens when...
 This question is a classic and still widely used interview question for many types of software engineering position. It is used to assess a candidate’s general knowledge of how the web stack works on top of the internet. One important guideline to begin answering this question is that you should ask your interviewer whether they would like you to focus in on one specific area of the workflow. For a front-end position they may want you to talk at length about how the DOM is rendering. For an SRE position they may want you to go into the load balancing mechanism.
