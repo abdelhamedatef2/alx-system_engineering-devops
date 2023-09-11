@@ -37,8 +37,8 @@ Add a schema to your blog post illustrating the flow of the request created when
 * that the application server request data from the database
 
 Gliffy is free and what I personally use, but feel free to use what fits you best.
-
 Some unrelated examples:
+
 ![i9ivkdo](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/2ee2516a-566f-4e09-8f6a-0fad2dcb1fc3)
 
 ![R8R3sqC](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/c35db7a6-212d-4ab5-8005-5d54a9642b72)
