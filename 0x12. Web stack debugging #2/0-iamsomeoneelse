@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Creat and run whoami cmd as specified user
-sudo -u "$1" whoami
