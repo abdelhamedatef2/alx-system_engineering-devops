@@ -1,5 +1,5 @@
 # 0x1A. Application server
-![Uploading c7d1ed0a2e10d1b4e9b3.jpg…]()
+![c7d1ed0a2e10d1b4e9b3](https://github.com/abdelhamedatef2/alx-system_engineering-devops/assets/118136210/54c125de-d14b-433f-8555-ae11e131f6d1)
 
 ## Requirements
 
