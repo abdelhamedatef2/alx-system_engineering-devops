@@ -25,7 +25,7 @@ server {
 
 	location /airbnb-onepage/ {
 		include proxy_params;
-		proxy_pass http://0.0.0.0:5000;
+		proxy_pass http://127.0.0.1:5000/airbnb-onepage/;
 	}
 
         # SSL configuration
